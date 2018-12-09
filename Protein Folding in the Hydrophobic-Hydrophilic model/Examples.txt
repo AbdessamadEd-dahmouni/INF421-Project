@@ -1,0 +1,27 @@
+PHHPPHHPPHPH:
+  P-P     
+  | |     
+  H H-H-P 
+  |       
+P-H H     
+|   |     
+P-H-P     
+          
+
+PHPPHHPPH:
+P-P   
+| |   
+H H-P 
+|     
+H H   
+| |   
+P-P   
+      
+
+PHPHPPHPHP:
+P-H-P   
+|   |   
+P-H H-P 
+  |     
+  P-H-P 
+        
